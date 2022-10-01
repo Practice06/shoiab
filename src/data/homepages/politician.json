@@ -1,0 +1,250 @@
+{
+    "title": "politician-home",
+    "content": [
+        {
+            "id": "politician-home-hero",
+            "section": "hero-section",
+            "headings": [
+                {
+                    "content": "WELCOME TO MY WORLD"
+                },
+                {
+                    "content": "Hi, Im <span>Shoaib Akhter</span><br><span class='span'> Business Manager.</span>"
+                }
+            ],
+            "texts": [
+                {
+                    "content": "Im managing different projects at the same time remotely with excellent skills and experience."
+                }
+            ],
+            "images": [
+                {
+                    "src": "../images/slider/banner-07.png",
+                    "alt": "Personal Portfolio Images"
+                }
+            ]
+        },
+        {
+            "id": "politician-home-services",
+            "section": "service-section",
+            "section_title": {
+                "title": "What I Do",
+                "subtitle": "Features"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Managing Social Account",
+                    "description": "I manage all the social accounts like Facebook, Instagram, WhatsApp, etc.",
+                    "icon": "Slack",
+                    "path": "#!"
+                },
+                {
+                    "id": 2,
+                    "title": "Ads",
+                    "description": "I have several years of google and Facebook ads experience.",
+                    "icon": "Tv",
+                    "path": "#!"
+                },
+                {
+                    "id": 3,
+                    "title": "Marketing",
+                    "description": "I have multiple business strategies accoding to the marketing developments.",
+                    "icon": "Wifi",
+                    "path": "#!"
+                }
+            ]
+        },
+        {
+            "id": "politician-home-portfolio",
+            "section": "portfolio-section",
+            "section_title": {
+                "title": "My Profiles",
+                "subtitle": "Visit my profiles and keep your feedback"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Facebook",
+                    "category": "Shoaib Akhter (S A R)",
+                    "texts": [
+                        {
+                            "content": "this is my official facebook account"
+                        }
+                        
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-01.jpeg"
+                        }
+                    ],
+                    "path": "https://www.facebook.com/profile.php?id=100013392961907",
+                    "likeCount": 4000
+                },
+                {
+                    "id": 2,
+                    "title": "Instagram",
+                    "category": "Shoaibakhter_official",
+                    "texts": [
+                        {
+                            "content": "My official Instagram account."
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-02.jpeg"
+                        }
+                    ],
+                    "path": "https://www.instagram.com/Shoaibakhter_official/",
+                    "likeCount": 113
+                }
+            ]
+        },
+        {
+            "id": "politician-home-resume",
+            "section": "resume-section",
+            "section_title": {
+                "title": "My Resume",
+                "subtitle": "4+ Years of Experience"
+            }
+        },
+        {
+            "id": "politician-home-education",
+            "section": "education-section",
+            "title": "Education and Job Experience",
+            "inner": [
+                {
+                    "id": "education-section-left",
+                    "section_title": {
+                        "title": "Education Quality",
+                        "subtitle": "2022"
+                    },
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "Bcom",
+                            "subtitle": "University of Punjab",
+                            "rating": "70%",
+                            "description": ""
+                        },
+                        {
+                            "id": 2,
+                            "title": "Icom",
+                            "subtitle": "private",
+                            "rating": "75%",
+                            "description": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "education-section-right",
+                    "section_title": {
+                        "title": "Job Experience",
+                        "subtitle": "2018 - 2022"
+                    },
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "The N Events",
+                            "subtitle": "Manager",
+                            "rating": "",
+                            "description": ""
+                        },
+                        {
+                            "id": 2,
+                            "title": "Noon Yacht",
+                            "subtitle": "Manager",
+                            "rating": "",
+                            "description": ""
+                        },
+                        {
+                            "id": 3,
+                            "title": "Habibi Yacht",
+                            "subtitle": "Owner",
+                            "rating": "",
+                            "description": ""
+                        },
+                        {
+                            "id": 4,
+                            "title": "Noon Boats",
+                            "subtitle": "Owner",
+                            "rating": "",
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "politician-home-skill",
+            "section": "skill-section",
+            "title": "professional Skills",
+            "inner": [
+                {
+                    "id": "politician-home-skill-left",
+                    "section_title": {
+                        "title": "Professional Skill",
+                        "subtitle": "Features"
+                    },
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "Ads management",
+                            "value": 98
+                        },
+                        {
+                            "id": 2,
+                            "title": "Social Media handeler",
+                            "value": 95
+                        },
+                        {
+                            "id": 3,
+                            "title": "Chats",
+                            "value": 100
+                        },
+                        {
+                            "id": 4,
+                            "title": "Webs",
+                            "value": 75
+                        },
+                        {
+                            "id": 5,
+                            "title": "Customer care",
+                            "value": 92
+                        }
+                    ]
+                }
+
+            ]
+        },
+       
+       
+        
+        {
+            "id": "politician-home-contact",
+            "section": "contact-section",
+            "section_title": {
+                "title": "Contact With Me",
+                "subtitle": "Contact"
+            },
+            "images": [
+                {
+                    "src": "../images/contact/contact1.jpeg"
+                }
+            ],
+            "headings": [
+                {
+                    "content": "Shoaib Akhter"
+                },
+                {
+                    "content": "Chief Exative Officer"
+                }
+            ],
+            "texts": [
+                {
+                    "content": "I am available for freelance work. Connect with me via my accounts."
+                }
+            ]
+        }
+    ]
+}
